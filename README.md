@@ -1,6 +1,6 @@
 # PostSystem
 
-> 学习vue的另一个小demo，模拟的一个快餐店管理系统
+> 学习vue的另一个小demo，模拟的一个快餐店管理结账系统
 
 ## 技术栈
 前端 ：vue2 + webpack + vueRouter + element
